@@ -1,0 +1,17 @@
+# Ignore compiled and object files
+*.o
+*.bin
+*.iso
+
+# Ignore linker scripts and intermediate build files
+*.ld
+
+# Ignore backup or temporary files
+*~
+*.swp
+.DS_Store
+
+# Ignore specific build artifacts
+kernel-701
+my_kernel.iso
+
